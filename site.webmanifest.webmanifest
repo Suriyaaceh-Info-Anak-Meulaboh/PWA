@@ -1,0 +1,23 @@
+{
+    "name": "Suriya-aceh.eu.org",
+    "short_name": "Suriya-Aceh Info Anak Meulaboh",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzF_IZfFoIIlHYZKO9u54rja3WSKbf2K3YaYJq_OPKMeDdxrXYppCKNgkfP-7cNdmassVELkuahA75L1f7AHPr8kpMenMeLUEHml0CsBJqE83QgshQMiHx--nLQC5vHZzev2Mu7toi5s5dnPFFCNjQZJt1SNsLfRYq_NHIxZ9GwZYvHyD7db3ZT3H7sg/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhePRJpMN9KoBpabnkJ_9Fy2WVUEB6A0egbRcuE_0WWSIkqSB5KAaoSHLGrRAKDJbHeOwnUCkJ3tzss46fbJv7CEfJ-XRpramg4Ol-D0kYymKqsACvDeGGZjfLoEpGzOpcyraL6Rpg2niltnZR-7ttoy12f6Xs5Wp6Nb-Jqy0GbdWpOvDDUYyCF3GHQ-Q/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.suriya-aceh.eu.org"
+}
